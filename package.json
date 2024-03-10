@@ -1,0 +1,24 @@
+{
+  "name": "tea-mengakun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HabibahUL12/tea-mengakun.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HabibahUL12/tea-mengakun/issues"
+  },
+  "homepage": "https://github.com/HabibahUL12/tea-mengakun#readme",
+  "dependencies": {
+    "hasilkan-uang": "^1.0.0",
+    "logika-huruf": "^1.0.0",
+    "serangan-fajar": "^1.0.0"
+  }
+}
